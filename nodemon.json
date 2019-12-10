@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "saqibps",
+        "MONGO_PASSWORD": "saqibps",
+        "MONGO_DB": "events-react-dev"
+    }
+}
